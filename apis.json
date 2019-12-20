@@ -1,0 +1,62 @@
+{
+    "name": "XING_com",
+    "description": "XING ist das f\u00fchrende soziale Netzwerk f\u00fcr berufliche Kontakte mit fast 11 Millionen Mitgliedern im deutschsprachigen Raum. Auf XING vernetzen sich Berufst\u00e4tige aller Branchen, sie suchen und finden Jobs, Mitarbeiter, Auftr\u00e4ge, Kooperationspartner, fac...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1502-xing_com.jpg",
+    "tags": [
+        "have api",
+        "marketplaces",
+        "networks",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/xing-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "XING_com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1502-xing_com.jpg",
+            "humanURL": "https:\/\/xing.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/xing-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/xing.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.xing.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/openblog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/xing"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/xing"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/xing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/XING_com"
+        }
+    ]
+}
